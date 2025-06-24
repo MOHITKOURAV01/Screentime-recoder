@@ -1,4 +1,4 @@
-# 📚 Screen Time Recorder
+# 📚 Screen Time Recorder.
 
 ---
 
